@@ -1,0 +1,6 @@
+-own ft_split (rewrite for char* and)
+-own libft
+
+git command:
+
+git add push_swap.h push_swap.c Makefile utils.c ./stack/ ./operations/
